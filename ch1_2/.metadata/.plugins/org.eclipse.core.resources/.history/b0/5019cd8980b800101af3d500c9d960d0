@@ -1,0 +1,12 @@
+package test03;
+
+public class MainEntry {
+	public static void main(String[] args) {
+		System.out.print(100);
+		System.out.print('A');
+		System.out.print(12.34);
+		System.out.print("korea");
+		
+	}
+
+}
